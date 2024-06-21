@@ -1,2 +1,2 @@
-# Hello-World
+# Intro-to-Github
 Introduction to GitHub-exercise
